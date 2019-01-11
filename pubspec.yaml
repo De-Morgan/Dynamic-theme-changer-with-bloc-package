@@ -1,0 +1,22 @@
+name: theme_changer
+description: A new Flutter application demostrating bloc implementation.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  bloc: ^0.7.8
+  flutter_bloc: ^0.4.12
+  shared_preferences: ^0.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
