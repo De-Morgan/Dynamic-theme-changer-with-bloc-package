@@ -1,16 +1,12 @@
 # theme_changer
 
-A new Flutter application.
+A new Flutter application that demostrate how to use bloc and flutter_bloc package to dynamically change theme.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ScreenShot
+![light_theme](https://user-images.githubusercontent.com/39544355/51031204-1e5cf200-159c-11e9-96be-e83093f1ff93.PNG)
+![dark_theme](https://user-images.githubusercontent.com/39544355/51031205-1e5cf200-159c-11e9-83a4-fa2a45d5264d.PNG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Medium Story
+Check my medium post for the explaination here
+https://medium.com/@michaeladesola1410/change-flutter-application-theme-dynamically-using-bloc-e3bacf567f6e
